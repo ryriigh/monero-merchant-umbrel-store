@@ -8,7 +8,7 @@ https://github.com/ryriigh/monero-merchant-umbrel-store
 
 In umbrelOS, open **App Store -> Community App Stores -> Add Store** and paste the URL above. The app appears as **Monero Merchant** with app id `ryriigh-monero-merchant`.
 
-This store mirrors the bounty PR package in [`Monero-Merchant/monero-merchant#33`](https://github.com/Monero-Merchant/monero-merchant/pull/33). The store-specific app id is prefixed with `ryriigh-` because Umbrel Community App Stores require app ids to start with the store id.
+This store mirrors the bounty PR package in [`Monero-Merchant/monero-merchant#33`](https://github.com/Monero-Merchant/monero-merchant/pull/33). The store-specific app id is prefixed with `ryriigh-` because Umbrel Community App Stores require app ids to start with the store id. The app directory includes the backend source so Umbrel can build the test package directly from this store repository.
 
 ## Validation
 
